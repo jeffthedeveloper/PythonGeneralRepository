@@ -68,3 +68,9 @@ def betterCompression(s):
 
 * You can include the installation instructions for `pypdf2` and `pandas` if this project is part of a larger repository that requires these libraries.
 * Consider adding examples of how to run the scripts and their expected outputs in the descriptions to further enhance their usefulness.
+
+# scriptPython Whatsapp Images Download
+
+Script para baixar imagens do WhatsApp e criar pastas no Google Drive
+
+Script for download images from whatsapp and create folders at Google Drive
