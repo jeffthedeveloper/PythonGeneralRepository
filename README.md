@@ -114,3 +114,7 @@ Recursos adicionais:
 Script para baixar imagens do WhatsApp e criar pastas no Google Drive
 
 Script for download images from whatsapp and create folders at Google Drive
+
+# countingSquirrels
+
+a code to count squirrels by conclusion of some code aspects variations,  also creating dataframes and making conversion of fahrenheit temperature
