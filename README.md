@@ -103,10 +103,10 @@ Adapte os nomes das variáveis e arquivos de acordo com o seu projeto.
 Você pode modificar o código para realizar outras operações nas células, como formatar texto, adicionar comentários ou realizar cálculos.
 Consulte a documentação das bibliotecas para obter mais informações sobre suas funcionalidades.
 Recursos adicionais:
-'''
+'''bash
 Documentação Pandas: https://pandas.pydata.org/
 Documentação NumPy: https://numpy.org/
-Documentação Openpyxl: https://openpyxl.readthedocs.io/ '''
+Documentação Openpyxl: https://openpyxl.readthedocs.io/ 
 
 # scriptPython Whatsapp Images Download
 
