@@ -105,9 +105,9 @@ Consulte a documentação das bibliotecas para obter mais informações sobre su
 Recursos adicionais:
 
 
-**Documentação Pandas: https://pandas.pydata.org/**
-**Documentação NumPy: https://numpy.org/**
-**Documentação Openpyxl: https://openpyxl.readthedocs.io/**
+* **Documentação Pandas: https://pandas.pydata.org/**
+* **Documentação NumPy: https://numpy.org/**
+* **Documentação Openpyxl: https://openpyxl.readthedocs.io/**
 
 # scriptPython Whatsapp Images Download
 
