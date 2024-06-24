@@ -71,6 +71,43 @@ def betterCompression(s):
 
 */
 
+# Manipulating Excel
+
+Explicação detalhada dos códigos:
+
+1. Pandas:
+
+A biblioteca pandas é utilizada para carregar e manipular DataFrames em Python.
+A função read_excel() carrega o conteúdo do arquivo Excel em um DataFrame.
+A coluna C é acessada usando o nome da coluna ("C") ou o índice (2).
+A função dropna() remove as células vazias da coluna C.
+Um loop for itera sobre cada valor da coluna C.
+2. NumPy:
+
+A biblioteca numpy é utilizada para trabalhar com arrays em Python.
+A função loadtxt() carrega o conteúdo do arquivo Excel em um array NumPy.
+A coluna C é acessada usando a indexação de array (coluna 2).
+Um loop for itera sobre cada valor da coluna C.
+A condição if valor != '' verifica se a célula não está vazia.
+3. Openpyxl:
+
+A biblioteca openpyxl é utilizada para ler e manipular arquivos Excel em Python.
+A função load_workbook() carrega o conteúdo do arquivo Excel em um objeto Workbook.
+A planilha ativa é acessada usando a propriedade active.
+A coluna C é acessada usando a notação de célula ('C').
+Um loop for itera sobre cada célula da coluna C, ignorando a primeira linha (cabeçalho).
+A condição if cell.value is not None verifica se a célula não está vazia.
+Observações:
+
+Adapte os nomes das variáveis e arquivos de acordo com o seu projeto.
+Você pode modificar o código para realizar outras operações nas células, como formatar texto, adicionar comentários ou realizar cálculos.
+Consulte a documentação das bibliotecas para obter mais informações sobre suas funcionalidades.
+Recursos adicionais:
+"""
+Documentação Pandas: https://pandas.pydata.org/
+Documentação NumPy: https://numpy.org/
+Documentação Openpyxl: https://openpyxl.readthedocs.io/ """
+
 # scriptPython Whatsapp Images Download
 
 Script para baixar imagens do WhatsApp e criar pastas no Google Drive
