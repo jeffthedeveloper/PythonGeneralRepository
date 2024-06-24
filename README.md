@@ -47,7 +47,7 @@ This script takes an imperfectly compressed string as input, where each characte
 
 def betterCompression(s):
     # ... (rest of the function code is the same as before)
-```
+*/
 
 **Explanation of the descriptions:**
 
@@ -68,6 +68,8 @@ def betterCompression(s):
 
 * You can include the installation instructions for `pypdf2` and `pandas` if this project is part of a larger repository that requires these libraries.
 * Consider adding examples of how to run the scripts and their expected outputs in the descriptions to further enhance their usefulness.
+
+*/
 
 # scriptPython Whatsapp Images Download
 
